@@ -35,7 +35,7 @@ const Missions = [
   {
     name: 'Cassini-Huygens',
     year: '2009',
-    country: 'Estados Unidos e União Europeia',
+    country: 'EUA e União Europeia',
     destination: 'Saturno',
   },
   {
